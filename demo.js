@@ -1,3 +1,5 @@
 console.log("Demo github");
 
-console.log("â");
+const demo = () => {
+  console.log("Demo github");
+};
